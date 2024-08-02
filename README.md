@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Generative AI based Applications**
 
-- 👨‍💻 Here is my portfolio [https://adventurous-sesame-07e.notion.site/Maryam-Irshad-0d29d11ea24e405fa41f33381fc24ed6?pvs=4](https://adventurous-sesame-07e.notion.site/Maryam-Irshad-0d29d11ea24e405fa41f33381fc24ed6?pvs=4)
+- 👨‍💻 Here is my [portfolio](https://adventurous-sesame-07e.notion.site/Maryam-Irshad-0d29d11ea24e405fa41f33381fc24ed6?pvs=4)
 
 - 📫 How to reach me **maryamirshad711@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bFxFQ2VFNaLRjEH-wsJfrKP1VV94MGnr/view?usp=sharing](https://drive.google.com/file/d/1bFxFQ2VFNaLRjEH-wsJfrKP1VV94MGnr/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bFxFQ2VFNaLRjEH-wsJfrKP1VV94MGnr/view?usp=sharing)
 
 - ⚡ Fun fact **I am selenophile, aesthetic photographer and coffee lover,**
 

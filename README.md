@@ -1,7 +1,7 @@
 <img src="https://github.com/Mee-mi/Mee-mi/blob/main/git_banner.jpg" alt="logo" height="300" width="100%">
 
 <h1 align="center">Hi 👋, I'm Maryam Irshad</h1>
-<h3 align="center">A AI Learning Engineer at Nixense Vixion</h3>
+<h3 align="center">An AI Learning Engineer at Nixense Vixion</h3>
 
 - 🔭 I’m currently working on **LLM based Applications, Computer vision and Integrating projects in Edge Devices and Cloud**
 

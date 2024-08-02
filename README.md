@@ -1,4 +1,4 @@
-<img src="https://github.com/Mee-mi/Mee-mi/blob/main/git_banner.jpg" alt="logo" height="200" width="100%">
+<img src="https://github.com/Mee-mi/Mee-mi/blob/main/git_banner.jpg" alt="logo" height="400" width="100%">
 
 <h1 align="center">Hi 👋, I'm Maryam Irshad</h1>
 <h3 align="center">A AI Learning Engineer at Nixense Vixion</h3>

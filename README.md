@@ -1,3 +1,5 @@
+![logo](https://github.com/Mee-mi/Mee-mi/blob/main/git_banner.png)
+
 <h1 align="center">Hi 👋, I'm Maryam Irshad</h1>
 <h3 align="center">A AI Learning Engineer at Nixense Vixion</h3>
 

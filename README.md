@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **LLM based Applications, Computer vision and Integrating projects in Edge Devices and Cloud**
 
-- 🌱 I’m currently learning **Gen AI and Llms**
+- 🌱 I’m currently learning **Generative AI and Large Language Model**
 
 - 👯 I’m looking to collaborate on **Generative AI based Applications**
 

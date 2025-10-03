@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Generative AI based Applications**
 
-- 👨‍💻 Here is my [portfolio](https://adventurous-sesame-07e.notion.site/Maryam-Irshad-0d29d11ea24e405fa41f33381fc24ed6?pvs=4)
+- 👨‍💻 Here is my [portfolio](https://maryam-irshad-portfolio.lovable.app/)
 
 - 📫 How to reach me **maryamirshad711@gmail.com**
 
